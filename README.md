@@ -1,4 +1,4 @@
-# trackable-rfid-observer
+# Trackable RFID Observer (Node)
 
 This is the source code of RFID card observers which is used by the trackable web app. 
 
